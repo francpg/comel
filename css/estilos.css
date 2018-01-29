@@ -25,7 +25,7 @@ video {
 
 main {
 	width: 920px;
-	min-height: 600px;
+	min-height: 400px;
 	margin-left:auto;
 	margin-right:auto;
 	margin-top: 20px;
@@ -101,6 +101,7 @@ footer {
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:10px;
+	z-index: 99999;
 }
 
 h1 {
@@ -123,6 +124,16 @@ h2 {
 	width:440px;
 	padding:5px;
 	display:inline-block;
+	max-height:180px;
+}
+
+.listaCanciones li{
+	list-style: none;
+}
+
+.listaCanciones a{
+	text-decoration:none;
+	color:#FFF;
 }
 
 .listaGrupos{
@@ -186,6 +197,11 @@ h2 {
   right: 10px;
 }
 
+#videoyoutube {
+	width:440px;
+	display:inline-block;
+	height:300px;
+}
 
 /*ESTILOS GENERALES*/
 
@@ -197,6 +213,7 @@ nav ul{
 nav li{
 	position: relative;
 }
+
 
 nav li ul {
 	position: absolute;
