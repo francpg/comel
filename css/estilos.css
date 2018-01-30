@@ -205,6 +205,12 @@ h2 {
 
 /*ESTILOS GENERALES*/
 
+ul li a{
+	list-style:none;
+	text-decoration:none;
+	color: #ced4da;
+}
+
 nav ul{
 	list-style: none;
 	padding: 0;
