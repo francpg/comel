@@ -8,11 +8,11 @@ body {
 	margin:0;
 	font-family: 'Rubik', sans-serif;
 	width:100%;
+    background-color:black;
 }
 
 video {
 	position: fixed;
-    background-color:black;
 	
 	min-width: 100%;
 	min-height: 100%;
