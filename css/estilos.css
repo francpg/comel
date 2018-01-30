@@ -12,6 +12,7 @@ body {
 
 video {
 	position: fixed;
+    background-color:black;
 	
 	min-width: 100%;
 	min-height: 100%;
