@@ -54,12 +54,6 @@ footer {
 	height:20px;
 }
 
-.cabecera .reproductor {
-	width:50px;
-	height:100%;
-	float:right;
-}
-
 .cabecera .container{
 	width:920px;
 	height:100px;
@@ -79,6 +73,7 @@ footer {
 	font-family: 'Philosopher', sans-serif;
 	font-size:64px;
 	text-align:center;
+	float:left;
 }
 
 .cabecera .subnombre{
@@ -88,6 +83,17 @@ footer {
 	font-family: 'Abel', sans-serif;
 	font-size:24px;
 	text-align:center;
+	float:left;
+}
+
+.cabecera .reproductor {
+	width:400px;
+	height:50%;
+	color:#FFF;
+	font-family: 'Abel', sans-serif;
+	font-size:24px;
+	text-align:center;
+	float:left;
 }
 
 .cabecera a{
