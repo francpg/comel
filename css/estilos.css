@@ -54,8 +54,13 @@ footer {
 	height:20px;
 }
 
+#reproductor {
+	display:inline-block;
+	float:left;
+}
+
 .cabecera .container{
-	width:500px;
+	width:920px;
 	height:100px;
 	margin-left:auto;
 	margin-right:auto;
