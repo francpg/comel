@@ -55,7 +55,7 @@ footer {
 }
 
 .cabecera .container{
-	width:950px;
+	width:100%;
 	height:100px;
 	margin-left:auto;
 	margin-right:auto;
@@ -64,6 +64,7 @@ footer {
 
 .cabecera .logo{
 	float:left;
+	width:100px;
 }
 
 .cabecera .nombres{
@@ -93,7 +94,7 @@ footer {
 }
 
 .cabecera .reproductor {
-	width:420px;
+	width:440px;
 	height:100%;
 	color:#FFF;
 	font-family: 'Abel', sans-serif;
