@@ -55,7 +55,7 @@ footer {
 }
 
 .cabecera .container{
-	width:920px;
+	width:960px;
 	height:100px;
 	margin-left:auto;
 	margin-right:auto;
@@ -94,7 +94,7 @@ footer {
 }
 
 .cabecera .reproductor {
-	width:440px;
+	width:430px;
 	height:100%;
 	color:#FFF;
 	font-family: 'Abel', sans-serif;
