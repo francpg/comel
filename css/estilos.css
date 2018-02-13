@@ -142,19 +142,27 @@ h2 {
 
 .listaCanciones {
 	width:440px;
-	padding:5px;
+	padding:3px;
 	display:inline-block;
-	max-height:180px;
+	max-height:350px;
 }
 
-.listaCanciones li{
-	list-style: none;
+.listaCanciones li {
+	list-style:none;
 }
 
-.listaCanciones a{
-	text-decoration:none;
-	color:#FFF;
+.listaCanciones nav a{
+	height:120px;
+	width:120px;
+	margin:4px;
+	padding:4px;
 }
+
+.listaCanciones nav a img{
+	width: 120px;
+	height:120px;
+}
+
 
 .listaGrupos{
 	width:900px;
